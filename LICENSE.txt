@@ -1,0 +1,32 @@
+@"
+DR4 ACC Tire Coach – License Terms
+
+© 2026 DR4 Simracing. All rights reserved.
+
+Permission is granted to install and use this software for personal use only.
+It is strictly forbidden to:
+- Copy, decompile, reverse engineer, or extract the source code.
+- Modify, redistribute, publish, repackage, or sell this software or any part of it.
+- Share this application on other websites or platforms without explicit permission.
+
+This software is provided “as is”, without warranty of any kind. DR4 Simracing is not liable for any
+damages or losses resulting from the use of this software.
+
+Contact: dr4simracing@gmail.com
+
+
+DR4 ACC Tire Coach – Términos de licencia
+
+© 2026 DR4 Simracing. Todos los derechos reservados.
+
+Se concede permiso para instalar y usar este software únicamente para uso personal.
+Queda expresamente prohibido:
+- Copiar, descompilar, realizar ingeniería inversa o extraer el código fuente.
+- Modificar, redistribuir, publicar, reempaquetar o vender este software o parte de él.
+- Compartir esta aplicación en otras webs o plataformas sin autorización expresa.
+
+Este software se proporciona “tal cual”, sin garantías de ningún tipo. DR4 Simracing no se hace responsable
+de daños o pérdidas derivadas del uso de este software.
+
+Contacto: dr4simracing@gmail.com
+"@ | Out-File -Encoding utf8 "E:\CHATGPT\APP_ACC\APPfinal2\DR4 ACC Tire Coach\dist\DR4_ACC_Overlay\LICENSE.txt"
