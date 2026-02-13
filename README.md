@@ -1,3 +1,4 @@
+ACC Tire Coach (Windows EXE)
 Overlay for Assetto Corsa Competizione (ACC) built for qualifying sessions and fast pit adjustments.  
 After a clean run, the app calculates the clicks per wheel needed to reach the target PSI, shows tire and brake temperatures, and estimates the required fuel based on race duration.
 
@@ -47,3 +48,34 @@ Requirements
 - Windows (recommended)
 - Assetto Corsa Competizione
 - ACC telemetry/UDP enabled (depending on your settings)
+
+ACEVO Tire Coach (Windows EXE)
+
+How to run
+
+Extract the ZIP anywhere (Desktop / Documents recommended).
+
+Run: "ACEVO Tire Coach.exe"
+
+Start Assetto Corsa EVO and go on track.
+
+Update required / Not compatible?
+
+This tool only works with Assetto Corsa EVO version v0.5.
+
+If the game is updated by Steam and the BuildID changes, the tool will no longer be compatible.
+
+The application will be updated with each new Assetto Corsa EVO release to maintain compatibility.
+
+Always download the latest version from: https://dr4simracing.github.io/
+
+Notes
+
+Windows may show a SmartScreen warning the first time. Click "More info" -> "Run anyway".
+
+If the overlay does not appear, try borderless/windowed mode.
+
+License
+See LICENSE.txt
+
+Contact: dr4simracing@gmail.com
